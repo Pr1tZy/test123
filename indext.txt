@@ -1,1 +1,2 @@
 adding a new file to repo master
+trying to commit this new code i just freshly made
